@@ -1,1 +1,1 @@
-# C-
+# C++ for Tech academy
