@@ -1,0 +1,3 @@
+﻿  Project02Exercise.cpp
+C:\Users\phill\Documents\GitHub\C-plus-plus\Project02Exercise\Project02Exercise.cpp(26,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project02Exercise.vcxproj -> C:\Users\phill\Documents\GitHub\C-plus-plus\Project02Exercise\Debug\Project02Exercise.exe
