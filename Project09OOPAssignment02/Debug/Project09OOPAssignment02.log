@@ -1,0 +1,5 @@
+﻿  Project09OOPAssignment02.cpp
+C:\Users\phill\Documents\GitHub\C-plus-plus\Project09OOPAssignment02\Shapes.h(41,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phill\Documents\GitHub\C-plus-plus\Project09OOPAssignment02\Shapes.h(48,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\phill\Documents\GitHub\C-plus-plus\Project09OOPAssignment02\Shapes.h(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project09OOPAssignment02.vcxproj -> C:\Users\phill\Documents\GitHub\C-plus-plus\Project09OOPAssignment02\Debug\Project09OOPAssignment02.exe
