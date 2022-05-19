@@ -1,0 +1,1294 @@
+﻿Log file open, 05/17/22 12:05:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20676)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RollBall
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\phill\OneDrive\Documents\Unreal Projects\RollBall\RollBall.uproject" -EpicPortal -epicusername=bazukagoesboom2 -epicuserid=6222e4b674b44e0dbdd40b4ee3f749df -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="289977a94c8e587b59e7fea60c5066c7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.244554
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-836F4A8D4A8F82848148F784FA889E4C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=bazukagoesboom2 -epicuserid=6222e4b674b44e0dbdd40b4ee3f749df -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.17-19.06.00:441][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.17-19.06.00:442][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.17-19.06.00:442][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.17-19.06.00:442][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.17-19.06.00:442][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.17-19.06.00:442][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.17-19.06.00:445][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.17-19.06.00:445][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.17-19.06.00:446][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.17-19.06.00:479][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.17-19.06.00:479][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.17-19.06.00:619][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.05.17-19.06.00:619][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 16346MB of shared system memory, 2 output[s]
+[2022.05.17-19.06.00:622][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.17-19.06.00:623][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16346MB of shared system memory, 0 output[s]
+[2022.05.17-19.06.00:623][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.17-19.06.00:623][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.17-19.06.00:623][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.17-19.06.00:623][  0]LogHAL: Display: Platform has ~ 32 GB [34280456192 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.17-19.06.00:623][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.17-19.06.00:623][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.17-19.06.00:623][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.17-19.06.00:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.17-19.06.00:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.17-19.06.00:623][  0]LogInit: Computer: DESKTOP-1M7GVLO
+[2022.05.17-19.06.00:623][  0]LogInit: User: SomeoneElse
+[2022.05.17-19.06.00:623][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.17-19.06.00:623][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.17-19.06.00:623][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.05.17-19.06.00:623][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.17-19.06.00:623][  0]LogMemory: Process Physical Memory: 270.91 MB used, 284.14 MB peak
+[2022.05.17-19.06.00:624][  0]LogMemory: Process Virtual Memory: 226.94 MB used, 226.94 MB peak
+[2022.05.17-19.06.00:624][  0]LogMemory: Physical Memory: 14101.83 MB used,  18590.56 MB free, 32692.39 MB total
+[2022.05.17-19.06.00:624][  0]LogMemory: Virtual Memory: 22958.77 MB used,  14597.62 MB free, 37556.39 MB total
+[2022.05.17-19.06.00:624][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.17-19.06.00:628][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.17-19.06.00:639][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.17-19.06.00:640][  0]LogInit: Using OS detected language (en-US).
+[2022.05.17-19.06.00:640][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.17-19.06.00:646][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.17-19.06.00:790][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.17-19.06.00:801][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.17-19.06.00:801][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.17-19.06.00:801][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.05.17-19.06.00:815][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.17-19.06.00:815][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.17-19.06.00:933][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.17-19.06.00:937][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.17-19.06.00:937][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.05.17-19.06.01:008][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.05.17-19.06.01:078][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.17-19.06.01:084][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.17-19.06.01:093][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.17-19.06.01:107][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.17-19.06.01:107][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.17-19.06.01:142][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.05.17-19.06.01:142][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.17-19.06.01:142][  0]LogWindows: EnumDisplayDevices:
+[2022.05.17-19.06.01:143][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.05.17-19.06.01:143][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.05.17-19.06.01:143][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.17-19.06.01:143][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.17-19.06.01:143][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.17-19.06.01:143][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.05.17-19.06.01:143][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.05.17-19.06.01:143][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.05.17-19.06.01:143][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.05.17-19.06.01:143][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.17-19.06.01:143][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.17-19.06.01:154][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.17-19.06.01:158][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/RollBall.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/TurnkeyReport_0.log" -log="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/TurnkeyLog_0.log" -project="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/RollBall.uproject"  -platform=all'
+[2022.05.17-19.06.01:158][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/RollBall.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/TurnkeyReport_0.log" -log="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/TurnkeyLog_0.log" -project="C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/RollBall.uproject"  -platform=all" ]
+[2022.05.17-19.06.01:176][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.17-19.06.01:182][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.17-19.06.01:182][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.17-19.06.01:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.17-19.06.01:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.17-19.06.01:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.17-19.06.01:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.17-19.06.01:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.17-19.06.01:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.17-19.06.01:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.17-19.06.01:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.17-19.06.01:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.17-19.06.01:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.17-19.06.01:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.17-19.06.01:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.17-19.06.01:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.17-19.06.01:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.17-19.06.01:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.17-19.06.01:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.17-19.06.01:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.17-19.06.01:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.17-19.06.01:220][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.17-19.06.01:225][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.17-19.06.01:227][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.17-19.06.01:227][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.17-19.06.01:227][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.17-19.06.01:227][  0]LogTargetPlatformManager:   PCM
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager:   BINKA
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager:   OGG
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.17-19.06.01:229][  0]LogTargetPlatformManager:   OPUS
+[2022.05.17-19.06.01:267][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.17-19.06.01:272][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.17-19.06.01:274][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.17-19.06.01:274][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.17-19.06.01:274][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:274][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:275][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:275][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:275][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:276][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.17-19.06.01:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.17-19.06.01:278][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.17-19.06.01:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.17-19.06.01:278][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.17-19.06.01:295][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.17-19.06.01:295][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.17-19.06.01:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.17-19.06.01:295][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.17-19.06.01:303][  0]LogDerivedDataCache: Speed tests for C:/Users/phill/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.17-19.06.01:303][  0]LogDerivedDataCache: Display: Performance to C:/Users/phill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=316.74MBs, RandomWriteSpeed=180.46MBs. Assigned SpeedClass 'Local'
+[2022.05.17-19.06.01:304][  0]LogDerivedDataCache: Using Local data cache path C:/Users/phill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.17-19.06.01:304][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.17-19.06.01:304][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.17-19.06.01:310][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.17-19.06.01:310][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.17-19.06.01:310][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Intermediate/Shaders/WorkingDirectory/19748/).
+[2022.05.17-19.06.01:311][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/phill/AppData/Local/Temp/UnrealShaderWorkingDir/F2670C784E01E53D1A2C02AA38D3CD00/'.
+[2022.05.17-19.06.01:311][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.17-19.06.01:311][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.05.17-19.06.02:533][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.17-19.06.02:533][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.17-19.06.02:580][  0]LogAssetRegistry: FAssetRegistry took 0.0154 seconds to start up
+[2022.05.17-19.06.02:586][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.17-19.06.02:780][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.17-19.06.02:780][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.17-19.06.03:202][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.17-19.06.03:202][  0]LogDeviceProfileManager: Active device profile: [000007C309CA1500][000007C2FEEF5000 50] WindowsEditor
+[2022.05.17-19.06.03:202][  0]LogDeviceProfileManager: Profiles: [000007C309CA0FC0][000007C2FEEFA000 50] Windows, [000007C309CA1500][000007C2FEEF5000 50] WindowsEditor, [000007C309CA2680][000007C2FEEF2800 50] WindowsServer, [000007C309CA24C0][000007C2FED6A000 50] WindowsClient, [000007C309CA2300][000007C2FEEF7800 50] IOS, [000007C309CA2140][000007C309C20000 50] iPadAir2, [000007C309CA55C0][000007C309C27800 50] IPadPro, [000007C309CA5940][000007C309C25000 50] iPadAir3, [000007C309CA3640][000007C309C2A000 50] iPadAir4, [000007C309CA3480][000007C309C2C800 50] iPadMini4, [000007C309CA5400][000007C2EAF25000 50] iPadMini5, [000007C309CA2840][000007C309C70000 50] iPadMini6, [000007C309CA8500][000007C309C7A000 50] iPhone6S, [000007C309CA8880][000007C309C77800 50] iPhone7, [000007C309CA8C00][000007C309C75000 50] iPodTouch7, [000007C309CA6740][000007C309C7C800 50] iPhone6SPlus, [000007C309CA01C0][000007C309C22800 50] iPhone7Plus, [000007C309CA4EC0][000007C309CB0000 50] iPhoneSE, [000007C309CA6200][000007C309CB5000 50] iPhone8, [000007C309CA3B80][000007C309CB7800 50] iPhone8Plus, [000007C309CA5080][000007C309CBA000 50] iPhoneX, [000007C309CA6C80][000007C309CBC800 50] iPhoneXS, [000007C309CA4440][000007C309C72800 50] iPhoneXSMax, [000007C309CA0380][000007C309CC0000 50] iPhoneXR, [000007C309CA4280][000007C309CC5000 50] iPhone11, [000007C309CA2D80][000007C309CC7800 50] iPhone11Pro, [000007C309CA86C0][000007C309CCA000 50] iPhone11ProMax, [000007C309CA5E80][000007C309CCC800 50] iPhoneSE2, [000007C309CA6E40][000007C309CB2800 50] iPhone12Mini, [000007C309CA4B40][000007C309CD0000 50] iPhone12, [000007C309CA63C0][000007C309CD5000 50] iPhone12Pro, [000007C309CA1A40][000007C309CD7800 50] iPhone12ProMax, [000007C309CA7A80][000007C309CDA000 50] iPhone13Mini, [000007C309CA5B00][000007C309CDC800 50] iPhone13, [000007C309CA7E00][000007C309CC2800 50] iPhone13Pro, [000007C309CA39C0][000007C309CE0000 50] iPhone13ProMax, [000007C309CA78C0][000007C309CE5000 50] iPadPro105, [000007C309CA1880][000007C309CE7800 50] iPadPro129, [000007C309CA8180][000007C309CEA000 50] iPadPro97, [000007C309CA32C0][000007C309CEC800 50] iPadPro2_129, [000007C309CA0000][000007C309CD2800 50] iPad5, [000007C309CA7C40][000007C309CF0000 50] iPad6, [000007C309CA4D00][000007C309CF5000 50] iPad7, [000007C309CA7700][000007C309CF7800 50] iPad8, [000007C309CA3F00][000007C309CFA000 50] iPad9, [000007C309CA7000][000007C309CFC800 50] iPadPro11, [000007C309CA1340][000007C309CE2800 50] iPadPro2_11, [000007C309CA5240][000007C309D00000 50] iPadPro3_11, [000007C309CA71C0][000007C309D05000 50] iPadPro3_129, [000007C309CA6AC0][000007C309D07800 50] iPadPro4_129, [000007C309CA4600][000007C309D0A000 50] iPadPro5_129, [000007C309CA2A00][000007C309D0C800 50] AppleTV, [000007C309CA8340][000007C309CF2800 50] AppleTV4K, [000007C309CA6040][000007C309D10000 50] TVOS, [000007C309CAA2C0][000007C309D17800 50] Mac, [000007C309CAA640][000007C309D15000 50] MacEditor, [000007C309CA4980][000007C309D1A000 50] MacClient, [000007C309CA1C00][000007C309D1C800 50] MacServer, [000007C309CA2BC0][000007C309D40000 50] Linux, [000007C309CA8DC0][000007C309D42800 50] LinuxEditor, [000007C309CA0700][000007C309D47800 50] LinuxArm64Editor, [000007C309CAA9C0][000007C309D4A000 50] LinuxArm64, [000007C309CA9BC0][000007C309D4C800 50] LinuxClient, [000007C309CA9680][000007C309D02800 50] LinuxArm64Client, [000007C309CA5CC0][000007C309D45000 50] LinuxServer, [000007C309CAA480][000007C309D20000 50] LinuxArm64Server, [000007C309CA3800][000007C309D25000 50] Android, [000007C309CA9140][000007C309D27800 50] Android_Preview_OpenGL, [000007C309CA0540][000007C309D2A000 50] Android_Preview_Vulkan, [000007C309CA9A00][000007C309D2C800 50] Android_Low, [000007C309CA8F80][000007C309D12800 50] Android_Mid, [000007C309CA7380][000007C309D30000 50] Android_High, [000007C309CA8A40][000007C309D35000 50] Android_Default, [000007C309CA40C0][000007C309D37800 50] Android_Adreno4xx, [000007C309CA1F80][000007C309D3A000 50] Android_Adreno5xx_Low, [000007C309CA08C0][000007C309D3C800 50] Android_Adreno5xx, [000007C309CA0E00][000007C309D22800 50] Android_Adreno6xx, [000007C309CAAB80][000007C309D50000 50] Android_Adreno6xx_Vulkan, [000007C309CA3100][000007C309D55000 50] Android_Adreno7xx, [000007C309CAAD40][000007C309D57800 50] Android_Adreno7xx_Vulkan, [000007C309CA9840][000007C309D5A000 50] Android_Mali_T6xx, [000007C309CA94C0][000007C309D5C800 50] Android_Mali_T7xx, [000007C309CA5780][000007C309D32800 50] Android_Mali_T8xx, [000007C309CAAF00][000007C309D60000 50] Android_Mali_G71, [000007C309CA1DC0][000007C309D65000 50] Android_Mali_G72, [000007C309CA6580][000007C309D67800 50] Android_Mali_G72_Vulkan, [000007C309CAB0C0][000007C309D6A000 50] Android_Mali_G76, [000007C309CA47C0][000007C309D6C800 50] Android_Mali_G76_Vulkan, [000007C309CABD00][000007C309D52800 50] Android_Mali_G77, [000007C309CAB600][000007C309D70000 50] Android_Mali_G77_Vulkan, [000007C309CA2F40][000007C309D75000 50] Android_Mali_G78, [000007C309CAB980][000007C309D77800 50] Android_Mali_G78_Vulkan, [000007C309CABEC0][000007C309D7A000 50] Android_Mali_G710, [000007C309CA6900][000007C309D7C800 50] Android_Mali_G710_Vulkan, [000007C309CAB7C0][000007C309D62800 50] Android_Xclipse_920, [000007C309CAC080][000007C309D80000 50] Android_Xclipse_920_Vulkan, [000007C309CAA800][000007C309D85000 50] Android_Vulkan_SM5, [000007C309CA7FC0][000007C309D87800 50] Android_PowerVR_G6xxx, [000007C309CAC240][000007C309D8A000 50] Android_PowerVR_GT7xxx, [000007C309CA0A80][000007C309D8C800 50] Android_PowerVR_GE8xxx, [000007C309CACE80][000007C309D72800 50] Android_PowerVR_GM9xxx, [000007C309CAC5C0][000007C309D90000 50] Android_PowerVR_GM9xxx_Vulkan, [000007C309CA9300][000007C309D95000 50] Android_TegraK1, [000007C309CAD040][000007C309D97800 50] Android_Unknown_Vulkan, [000007C309CA3D40][000007C309D9A000 50] Oculus_Quest, [000007C309CADC80][000007C309D9C800 50] Oculus_Quest2, [000007C309CAD580][000007C309D82800 50] HoloLens, 
+[2022.05.17-19.06.03:202][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.17-19.06.03:229][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.17-19.06.03:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.17-19.06.03:440][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.17-19.06.03:440][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.17-19.06.03:440][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.17-19.06.03:440][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.17-19.06.03:459][  0]LogNetVersion: RollBall 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3076529073)
+[2022.05.17-19.06.03:593][  0]LogSlate: Border
+[2022.05.17-19.06.03:593][  0]LogSlate: BreadcrumbButton
+[2022.05.17-19.06.03:593][  0]LogSlate: Default
+[2022.05.17-19.06.03:593][  0]LogSlate: Icons.Save
+[2022.05.17-19.06.03:593][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.17-19.06.03:593][  0]LogSlate: ListView
+[2022.05.17-19.06.03:593][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.17-19.06.03:593][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.17-19.06.03:593][  0]LogSlate: TableView.DarkRow
+[2022.05.17-19.06.03:593][  0]LogSlate: TableView.Row
+[2022.05.17-19.06.03:593][  0]LogSlate: TreeView
+[2022.05.17-19.06.03:780][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.03:813][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.03:813][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.03:951][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.17-19.06.03:951][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.05.17-19.06.03:951][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.17-19.06.04:307][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4BB743DC4985328C69AAA08988B58B69 | Instance: 31DADF4D4DBBA08D43F58584C5666DC4 (DESKTOP-1M7GVLO-19748).
+[2022.05.17-19.06.04:333][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.17-19.06.04:370][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.17-19.06.04:393][  0]LogPython: Using Python 3.9.7
+[2022.05.17-19.06.05:226][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.05:228][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.05:231][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.05:240][  0]LogUProjectInfo: Found projects:
+[2022.05.17-19.06.05:583][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.17-19.06.05:628][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.17-19.06.05:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.17-19.06.05:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.17-19.06.05:718][  0]LogCollectionManager: Loaded 0 collections in 0.001826 seconds
+[2022.05.17-19.06.05:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Collections/' took 0.00s
+[2022.05.17-19.06.05:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Developers/SomeoneElse/Collections/' took 0.00s
+[2022.05.17-19.06.05:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Collections/' took 0.00s
+[2022.05.17-19.06.06:066][  0]LogEngine: Initializing Engine...
+[2022.05.17-19.06.06:077][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.17-19.06.06:078][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.17-19.06.06:315][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.17-19.06.06:316][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-19.06.06:325][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-19.06.06:352][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.17-19.06.06:353][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.17-19.06.06:372][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.17-19.06.06:372][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.17-19.06.06:372][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.17-19.06.06:373][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.17-19.06.06:373][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.17-19.06.06:381][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.17-19.06.06:442][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh 2 Wireless Stereo)
+[2022.05.17-19.06.06:442][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.17-19.06.06:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.17-19.06.06:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.17-19.06.06:445][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.17-19.06.06:445][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.17-19.06.06:446][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.17-19.06.06:446][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.17-19.06.06:446][  0]LogInit: FAudioDevice initialized.
+[2022.05.17-19.06.06:446][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.17-19.06.06:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.17-19.06.06:446][  0]LogInit: Texture streaming: Enabled
+[2022.05.17-19.06.06:479][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.17-19.06.06:487][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.17-19.06.06:508][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.17-19.06.06:514][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.17-19.06.06:514][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.17-19.06.07:707][  0]LogLiveCoding: Display: First instance in process group "UE_RollBall_0xab261bc8", spawning console
+[2022.05.17-19.06.07:707][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.17-19.06.07:707][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.17-19.06.07:710][  0]LogInit: Transaction tracking system initialized
+[2022.05.17-19.06.07:782][  0]BlueprintLog: New page: Editor Load
+[2022.05.17-19.06.07:980][  0]LocalizationService: Localization service is disabled
+[2022.05.17-19.06.08:026][  0]TimingProfiler: Initialize
+[2022.05.17-19.06.08:026][  0]TimingProfiler: OnSessionChanged
+[2022.05.17-19.06.08:026][  0]LoadingProfiler: Initialize
+[2022.05.17-19.06.08:026][  0]LoadingProfiler: OnSessionChanged
+[2022.05.17-19.06.08:026][  0]NetworkingProfiler: Initialize
+[2022.05.17-19.06.08:026][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.17-19.06.08:026][  0]MemoryProfiler: Initialize
+[2022.05.17-19.06.08:026][  0]MemoryProfiler: OnSessionChanged
+[2022.05.17-19.06.08:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/' took 0.00s
+[2022.05.17-19.06.08:528][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.17-19.06.08:748][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.17-19.06.08:752][  0]SourceControl: Source control is disabled
+[2022.05.17-19.06.08:752][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.449
+[2022.05.17-19.06.08:752][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-19.06.08:752][  0]LightingResults: New page: Lighting Build
+[2022.05.17-19.06.08:760][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-19.06.08:760][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-19.06.08:760][  0]MapCheck: New page: Map Check
+[2022.05.17-19.06.08:760][  0]LightingResults: New page: Lighting Build
+[2022.05.17-19.06.08:765][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-19.06.08:768][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.17-19.06.08:822][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.05.17-19.06.08:828][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-19.06.08:829][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.05.17-19.06.08:829][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.17-19.06.08:829][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.05.17-19.06.09:052][  0]LogWorldPartition: Display: WorldPartition initialize took 222 ms
+[2022.05.17-19.06.09:238][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-19.06.09:245][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.05.17-19.06.09:245][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-19.06.09:255][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.697ms to complete.
+[2022.05.17-19.06.09:255][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.503
+[2022.05.17-19.06.09:267][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.965
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: ================================================
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.17-19.06.09:267][  0]LogShaderCompilers: Display: ================================================
+[2022.05.17-19.06.09:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-19.06.09:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-19.06.09:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-19.06.09:403][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-19.06.09:456][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:456][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:457][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:457][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:458][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:458][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:458][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:458][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:459][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:459][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:459][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:459][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:460][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:460][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:460][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:460][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:461][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:461][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:461][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.17-19.06.09:461][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.17-19.06.09:577][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.17-19.06.09:583][  0]LogSlate: Took 0.003036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.17-19.06.09:587][  0]LogSlate: Took 0.004007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.17-19.06.13:120][  0]LogStall: Startup...
+[2022.05.17-19.06.13:121][  0]LogStall: Startup complete.
+[2022.05.17-19.06.13:158][  0]LogLoad: (Engine Initialization) Total time: 13.86 seconds
+[2022.05.17-19.06.13:158][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.17-19.06.13:303][  0]LogAssetRegistry: Asset discovery search completed in 10.7242 seconds
+[2022.05.17-19.06.13:307][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.17-19.06.13:308][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.17-19.06.13:356][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.17-19.07.55:050][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.07.55:050][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.07.55:051][563]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.05.17-19.07.55:059][563]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.05.17-19.07.55:624][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.07.55:624][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.07.55:625][588]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AC1001_2075084327
+[2022.05.17-19.07.55:626][588]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AC1001_2075084327
+[2022.05.17-19.08.01:323][ 93]LogDerivedDataCache: C:/Users/phill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.017 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.17-19.08.47:583][ 90]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AC1001_2075084327.StaticMeshComponent0)
+[2022.05.17-19.08.47:917][124]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AC1001_2075084327.StaticMeshComponent0)
+[2022.05.17-19.08.48:597][184]Cmd: TRANSACTION UNDO
+[2022.05.17-19.08.48:597][184]LogEditorTransaction: Undo Scale Elements
+[2022.05.17-19.09.00:469][150]Cmd: TRANSACTION UNDO
+[2022.05.17-19.09.00:469][150]LogEditorTransaction: Undo Scale Elements
+[2022.05.17-19.09.03:499][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.17-19.09.19:982][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.09.19:982][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.09.19:982][616]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_1
+[2022.05.17-19.09.19:982][616]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_1
+[2022.05.17-19.09.20:747][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.09.20:747][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.05.17-19.09.20:747][686]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AD1001_1086464504
+[2022.05.17-19.09.20:747][686]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AD1001_1086464504
+[2022.05.17-19.11.11:003][611]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.17-19.11.14:075][789]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.17-19.14.53:903][621]LogSlate: Took 0.003517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.17-19.14.55:225][714]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.05.17-19.14.55:225][714]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2022.05.17-19.14.59:449][ 66]LogSlate: Took 0.003193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.17-19.15.10:418][956]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.17-19.15.10:426][956]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.17-19.15.10:465][958]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.17-19.15.12:284][111]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.05.17-19.15.12:285][111]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.17-19.15.22:527][318]LogSlate: Window 'Save Level As' being destroyed
+[2022.05.17-19.15.22:743][318]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Map1_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Map1/8/BT/RV8BBP9ZKTLQQT2WABYZTS
+/Game/__ExternalObjects__/Maps/Map1/C/8H/D5VX1F7LPNXAD7262RWH2E
+/Game/__ExternalObjects__/Maps/Map1/9/VS/J4YPZMWYPT5KF6SCYTEFE9
+/Game/__ExternalObjects__/Maps/Map1/C/AC/VYHO2VFEC3OZG6NS6N6MXZ
+/Game/__ExternalObjects__/Maps/Map1/3/DB/XKFBYR8BPD6DV2YSZIY48Q
+/Game/__ExternalObjects__/Maps/Map1/5/SR/MMMWDO51BY0KS68OIEHPSX
+/Game/__ExternalActors__/Maps/Map1/E/RZ/8ZH9VUFZHLPZ1SW3QJ4EXC
+/Game/__ExternalActors__/Maps/Map1/9/F0/SM43OE0Z3PEBPG1BJAZXZZ
+/Game/__ExternalActors__/Maps/Map1/9/HI/ELZW0VO6LP52P2QWYCOJ5J
+/Game/__ExternalActors__/Maps/Map1/0/TP/0FE9GYX89KTV6O73MILJOK
+/Game/__ExternalActors__/Maps/Map1/E/8F/DLX7OJJIP32JX2UQDURQGE
+/Game/__ExternalActors__/Maps/Map1/4/P4/7P2P2280HAWIOHZWNEYBU3
+/Game/__ExternalActors__/Maps/Map1/C/0Z/K7A1HF1KK4D5K134XVHCGO
+/Game/__ExternalActors__/Maps/Map1/A/48/90DY3NL59XKEMBJ5R7060U
+/Game/__ExternalActors__/Maps/Map1/7/83/G5AZ8ZZ6HYPD4SN3JLT9H8
+/Game/__ExternalActors__/Maps/Map1/7/HA/1QGTDVS5PESBHGTM6QZRWA
+/Game/__ExternalActors__/Maps/Map1/9/4H/6RG94WS3ZX0NQ5O7NX6G2W
+/Game/__ExternalActors__/Maps/Map1/C/K3/QDCPARA6IK9S1TMOJCR5MZ
+/Game/__ExternalActors__/Maps/Map1/1/JV/CIQEY29YA6YOKTJ69YBWUO
+/Game/__ExternalActors__/Maps/Map1/2/QS/UVSQQJIWMF5VVUUZDIOYZ0
+/Game/__ExternalActors__/Maps/Map1/6/K7/VUHPJVUZO2DVXH4Q7BBKA2
+/Game/__ExternalActors__/Maps/Map1/5/BA/WSTUZFAIO3BUE12MI8O679
+/Game/__ExternalActors__/Maps/Map1/1/15/HYLV5K2MOYOF5GA231SW6B
+/Game/__ExternalActors__/Maps/Map1/7/3C/4V4ZSOUWLHB2E1U05OOS7P
+/Game/__ExternalActors__/Maps/Map1/1/K6/F4R7D5RHZCT9NNMUFZZBI4
+/Game/__ExternalActors__/Maps/Map1/3/3G/ZWVNZ2LC274VXFY16GGOWH
+/Game/__ExternalActors__/Maps/Map1/C/5I/L7NG4RW6KUCNMX0RM1RGQ3
+/Game/__ExternalActors__/Maps/Map1/9/RM/LIOXSWIV17D4HWTNAJG30I
+/Game/__ExternalActors__/Maps/Map1/D/A1/MHKHXJYLX2IX2JWVG0EYXC
+/Game/__ExternalActors__/Maps/Map1/E/8V/FNMMTUQ5E85XDVYTQDU0QU
+/Game/__ExternalActors__/Maps/Map1/5/03/L1UO9EBK2HDZXA8Y3OJT81
+/Game/__ExternalActors__/Maps/Map1/5/EE/H7EPFV0NMDW9RGEF9BT70K
+/Game/__ExternalActors__/Maps/Map1/A/4M/386ORROQ3MX6SVGWBVN7Q4
+/Game/__ExternalActors__/Maps/Map1/E/H3/4LELKV2DP43QROKC2OXQGB
+/Game/__ExternalActors__/Maps/Map1/B/LK/KIM67J6DEJSS7N6NDNSHPI
+/Game/__ExternalActors__/Maps/Map1/8/F5/IB0MZG9MYGSITTXA147E4V
+/Game/__ExternalActors__/Maps/Map1/9/ZK/WUK6OKR8C9BRCZ0K9P73EH
+/Game/__ExternalActors__/Maps/Map1/7/NY/NIIATKKPYIUPZZ72310PKY
+/Game/__ExternalActors__/Maps/Map1/4/VC/PUCCV8LLDP8KY1P0RX0DVF
+/Game/__ExternalActors__/Maps/Map1/5/2B/5WUCATHK4JTV7PWRH5SZFK
+/Game/__ExternalActors__/Maps/Map1/4/N6/H31TSPW6GZBT2TN47GBWRX
+/Game/__ExternalActors__/Maps/Map1/C/AG/G5MZ111R3Z1QXYAV2NMVDI
+/Game/__ExternalActors__/Maps/Map1/A/XF/PY6B63QA5DJ8WUM2YVINNF
+/Game/__ExternalActors__/Maps/Map1/9/EQ/8QZOMS0AB5HVAG0GLQXT18
+/Game/__ExternalActors__/Maps/Map1/2/GO/6LHWASSVZDC5S6CS382OSF
+/Game/__ExternalActors__/Maps/Map1/8/75/P1SEJ57H8BX75RRI87QAIW
+/Game/__ExternalActors__/Maps/Map1/2/JN/NQYWTLVHN4HA1TEVCXCQTL
+/Game/__ExternalActors__/Maps/Map1/8/G3/XHQRRG8R4Z0R9W55T55DGF
+/Game/__ExternalActors__/Maps/Map1/7/E3/7IDXJJZ6026N7W7740Q42J
+/Game/__ExternalActors__/Maps/Map1/8/D1/HKHQ7YKPFCV585EE9GQKSL
+/Game/__ExternalActors__/Maps/Map1/9/0V/6N399WYGNYOORG1V6MUV8T
+/Game/__ExternalActors__/Maps/Map1/5/PR/IM7RN9TMXFGQWA1BG1HBHS
+/Game/__ExternalActors__/Maps/Map1/0/1S/K8WOZL8QQWR2957YLXVIEC
+/Game/__ExternalActors__/Maps/Map1/8/3E/6EPM03FDX4MYYRBV6PTXHK
+/Game/__ExternalActors__/Maps/Map1/C/ER/14PHP61SBWM1GBQXUJZ03G
+/Game/__ExternalActors__/Maps/Map1/1/9O/JTSEUJ1AZ2TNU3QYC8BVLS
+/Game/__ExternalActors__/Maps/Map1/A/U3/9A4G7OODBZFT3LQH3XV2EZ
+/Game/__ExternalActors__/Maps/Map1/2/TA/21SFL0VRQ7D8MX3M51YZTN
+/Game/__ExternalActors__/Maps/Map1/F/1Q/KX0JT1WP2QV7QJLLVFS72Q
+/Game/__ExternalActors__/Maps/Map1/1/LO/JPJTPBIR3YHLYUTT2BSONP
+/Game/__ExternalActors__/Maps/Map1/3/S4/NQEUH028TX8CZWLECFUOBM
+/Game/__ExternalActors__/Maps/Map1/1/05/W70HFNB2UDIOJ030OBXK88
+/Game/__ExternalActors__/Maps/Map1/6/OS/YNYNVUFLIOBX8NQJ2A6NPE
+/Game/__ExternalActors__/Maps/Map1/3/EH/AYA0LWQ0YEB11SJUJG2QMQ
+/Game/__ExternalActors__/Maps/Map1/C/DZ/1169LL9CSRHPRG2UVXOFDW
+/Game/__ExternalActors__/Maps/Map1/1/D3/M25LKTHBKUTGPPOTWSL0TO
+/Game/__ExternalActors__/Maps/Map1/B/4T/QMI2QH9O8H26G9HEQ37BVM
+/Game/__ExternalActors__/Maps/Map1/8/CX/XDPPSQ4IZVFD401CTI8DOK
+/Game/__ExternalActors__/Maps/Map1/8/RP/CL95DON3H9EP6KBMSCFL4D
+/Game/__ExternalActors__/Maps/Map1/B/CH/WIX2VIB4X285WP0BKI629S
+/Game/__ExternalActors__/Maps/Map1/D/RD/ZAF0U7UQQU794PDZ3BD3EI
+/Game/__ExternalActors__/Maps/Map1/E/IG/3WQS36JO5R96OIF5B1ZKAS
+/Game/__ExternalActors__/Maps/Map1/1/BK/ODLDQPUG2IBMPVX69CAJJB
+/Game/__ExternalActors__/Maps/Map1/7/36/SO3PPGM84TCW0773XTUV8R
+/Game/__ExternalActors__/Maps/Map1/9/RH/WFIYKSMTCJI8CU18MX5IRJ
+/Game/__ExternalActors__/Maps/Map1/1/YV/H9F204ZYJ494TISOLK563R
+/Game/__ExternalActors__/Maps/Map1/B/ZT/4GZX04COJ525AB4L9IUCSR
+/Game/__ExternalActors__/Maps/Map1/8/Y4/LH85UYNEASX1O82UZS5AID
+/Game/__ExternalActors__/Maps/Map1/0/0K/E4WL9O6LQQY8XV2X9VRZVB
+/Game/__ExternalActors__/Maps/Map1/2/UF/A3AHMDWIKG348YP8ZMNS4Z
+/Game/__ExternalActors__/Maps/Map1/F/13/W6ONMINVDRXCZ7QESSMHP7
+/Game/__ExternalActors__/Maps/Map1/6/OB/ZKMKOC1EBJ3ZTTBR7KRZ1C
+/Game/__ExternalActors__/Maps/Map1/A/0M/LJ2ALOTLMD0P8QY98E2R0H
+/Game/__ExternalActors__/Maps/Map1/0/L7/10D03PQE6O4ZN4IW4EJS9A
+/Game/__ExternalActors__/Maps/Map1/8/A2/N4WA3A7FGVYMENX0IHL9AD
+/Game/__ExternalActors__/Maps/Map1/9/11/1CULK513VZNVREDGE8NR3F
+/Game/__ExternalActors__/Maps/Map1/4/9P/YGXZKYQWHDTA7ZZV8RV63E
+/Game/__ExternalActors__/Maps/Map1/B/SA/FDMH4FMH3TZMBP6W685JJU
+/Game/__ExternalActors__/Maps/Map1/6/Y2/1DNZY66HDSU67MSDPAKLKQ
+/Game/__ExternalActors__/Maps/Map1/2/BD/R0QVFMT67UX6A1HD2VLLIH
+/Game/__ExternalActors__/Maps/Map1/9/SI/D0UE8P981PFUISHDF0Y5XA
+/Game/__ExternalActors__/Maps/Map1/0/K6/CHQV9N764NN0NCFCLH4X4P
+/Game/__ExternalActors__/Maps/Map1/B/XX/JWWTQYL081E9EEIYJ1AF1V
+/Game/__ExternalActors__/Maps/Map1/D/D7/IIB9YURVIQUOR0CZQ19MQF
+/Game/__ExternalActors__/Maps/Map1/E/0N/LQE13E5TMU17C5F8UKF0S0
+/Game/__ExternalActors__/Maps/Map1/C/72/I4R5K5OJLWIVCC7A44MDCA
+/Game/__ExternalActors__/Maps/Map1/B/1Y/4T0PE0K4RN45U7TWJQFNPN
+/Game/__ExternalActors__/Maps/Map1/C/TH/Y7HVS22O8D9OF43OY9ZFSN
+/Game/__ExternalActors__/Maps/Map1/7/CA/CUIALFIHZ7XK063GN5KRMO
+/Game/__ExternalActors__/Maps/Map1/7/IG/WTSYUYXBUXYGLY3C05G0QG
+/Game/__ExternalActors__/Maps/Map1/0/FK/YCBOH9K85LJIJYHCF07MHX
+[2022.05.17-19.15.22:744][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1_HLOD0_Instancing" FILE="../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map1_HLOD0_Instancing.uasset" SILENT=true
+[2022.05.17-19.15.22:748][318]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004540 seconds
+[2022.05.17-19.15.22:749][318]LogSavePackage: Moving output files for package: /Game/Maps/Map1_HLOD0_Instancing
+[2022.05.17-19.15.22:749][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Map1_HLOD0_Instancing60FA61504FDEED2A3F56B5ADF012A924.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map1_HLOD0_Instancing.uasset'
+[2022.05.17-19.15.22:753][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/BT/RV8BBP9ZKTLQQT2WABYZTS
+[2022.05.17-19.15.22:753][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/RV8BBP9ZKTLQQT2WABYZTS494AFE7041CF3C35B8BA78B9DF0DF5E7.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/BT/RV8BBP9ZKTLQQT2WABYZTS.uasset'
+[2022.05.17-19.15.22:757][318]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map1/C/8H/D5VX1F7LPNXAD7262RWH2E
+[2022.05.17-19.15.22:757][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/D5VX1F7LPNXAD7262RWH2EA73048524662C9D9EB124A83BE409AF4.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalObjects__/Maps/Map1/C/8H/D5VX1F7LPNXAD7262RWH2E.uasset'
+[2022.05.17-19.15.22:761][318]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map1/9/VS/J4YPZMWYPT5KF6SCYTEFE9
+[2022.05.17-19.15.22:761][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/J4YPZMWYPT5KF6SCYTEFE95CA37DA94A8116B0CBDC18AA69499B24.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalObjects__/Maps/Map1/9/VS/J4YPZMWYPT5KF6SCYTEFE9.uasset'
+[2022.05.17-19.15.22:763][318]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map1/C/AC/VYHO2VFEC3OZG6NS6N6MXZ
+[2022.05.17-19.15.22:763][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/VYHO2VFEC3OZG6NS6N6MXZ596F3CCC4B21949D42FCCDA520E1AF06.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalObjects__/Maps/Map1/C/AC/VYHO2VFEC3OZG6NS6N6MXZ.uasset'
+[2022.05.17-19.15.22:766][318]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map1/3/DB/XKFBYR8BPD6DV2YSZIY48Q
+[2022.05.17-19.15.22:766][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/XKFBYR8BPD6DV2YSZIY48Q5DBD4D5A403843704399D0BE173EE07F.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalObjects__/Maps/Map1/3/DB/XKFBYR8BPD6DV2YSZIY48Q.uasset'
+[2022.05.17-19.15.22:768][318]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map1/5/SR/MMMWDO51BY0KS68OIEHPSX
+[2022.05.17-19.15.22:768][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/MMMWDO51BY0KS68OIEHPSX2A5494524C7F45B2D91384898445AD0B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalObjects__/Maps/Map1/5/SR/MMMWDO51BY0KS68OIEHPSX.uasset'
+[2022.05.17-19.15.22:773][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/RZ/8ZH9VUFZHLPZ1SW3QJ4EXC
+[2022.05.17-19.15.22:773][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/8ZH9VUFZHLPZ1SW3QJ4EXCC82F536449262F43B402FABCADCA47CB.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/RZ/8ZH9VUFZHLPZ1SW3QJ4EXC.uasset'
+[2022.05.17-19.15.22:776][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/F0/SM43OE0Z3PEBPG1BJAZXZZ
+[2022.05.17-19.15.22:776][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/SM43OE0Z3PEBPG1BJAZXZZ04BFD21647441D31E75051AC9EEEC0DA.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/F0/SM43OE0Z3PEBPG1BJAZXZZ.uasset'
+[2022.05.17-19.15.22:779][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/HI/ELZW0VO6LP52P2QWYCOJ5J
+[2022.05.17-19.15.22:779][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/ELZW0VO6LP52P2QWYCOJ5J5E67A9E34C5C112DD43E9783B4FB9726.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/HI/ELZW0VO6LP52P2QWYCOJ5J.uasset'
+[2022.05.17-19.15.22:782][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/TP/0FE9GYX89KTV6O73MILJOK
+[2022.05.17-19.15.22:782][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/0FE9GYX89KTV6O73MILJOKBBC52B14482ED722A49F2289D7D351DE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/TP/0FE9GYX89KTV6O73MILJOK.uasset'
+[2022.05.17-19.15.22:784][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/8F/DLX7OJJIP32JX2UQDURQGE
+[2022.05.17-19.15.22:785][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/DLX7OJJIP32JX2UQDURQGECF3F6FE84E4C7D8F13C8C7A347D36581.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/8F/DLX7OJJIP32JX2UQDURQGE.uasset'
+[2022.05.17-19.15.22:787][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/4/P4/7P2P2280HAWIOHZWNEYBU3
+[2022.05.17-19.15.22:787][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/7P2P2280HAWIOHZWNEYBU347A09F5A4EF374E7CFBFADAA0036C560.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/4/P4/7P2P2280HAWIOHZWNEYBU3.uasset'
+[2022.05.17-19.15.22:790][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/0Z/K7A1HF1KK4D5K134XVHCGO
+[2022.05.17-19.15.22:790][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/K7A1HF1KK4D5K134XVHCGOC55FE6C646C44F68889A56A685B33342.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/0Z/K7A1HF1KK4D5K134XVHCGO.uasset'
+[2022.05.17-19.15.22:792][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/A/48/90DY3NL59XKEMBJ5R7060U
+[2022.05.17-19.15.22:792][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/90DY3NL59XKEMBJ5R7060U5F715EBD4BB2FAC5AD87B3ADF7111EC4.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/A/48/90DY3NL59XKEMBJ5R7060U.uasset'
+[2022.05.17-19.15.22:803][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/83/G5AZ8ZZ6HYPD4SN3JLT9H8
+[2022.05.17-19.15.22:804][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/G5AZ8ZZ6HYPD4SN3JLT9H8A5D5996041B97A94C732209B7C816491.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/83/G5AZ8ZZ6HYPD4SN3JLT9H8.uasset'
+[2022.05.17-19.15.22:813][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/HA/1QGTDVS5PESBHGTM6QZRWA
+[2022.05.17-19.15.22:813][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/1QGTDVS5PESBHGTM6QZRWAFBB5AB9B4229E773E7BEA69FEE1C5AAE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/HA/1QGTDVS5PESBHGTM6QZRWA.uasset'
+[2022.05.17-19.15.22:823][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/4H/6RG94WS3ZX0NQ5O7NX6G2W
+[2022.05.17-19.15.22:823][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/6RG94WS3ZX0NQ5O7NX6G2WD30F07714327E5A595C154B28AC6923B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/4H/6RG94WS3ZX0NQ5O7NX6G2W.uasset'
+[2022.05.17-19.15.22:832][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/K3/QDCPARA6IK9S1TMOJCR5MZ
+[2022.05.17-19.15.22:832][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/QDCPARA6IK9S1TMOJCR5MZD3D240FD4CA15776C73127B49C0DFD99.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/K3/QDCPARA6IK9S1TMOJCR5MZ.uasset'
+[2022.05.17-19.15.22:843][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/JV/CIQEY29YA6YOKTJ69YBWUO
+[2022.05.17-19.15.22:843][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/CIQEY29YA6YOKTJ69YBWUOF06751D1484414FD8E6B108EB8433DA5.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/JV/CIQEY29YA6YOKTJ69YBWUO.uasset'
+[2022.05.17-19.15.22:853][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/QS/UVSQQJIWMF5VVUUZDIOYZ0
+[2022.05.17-19.15.22:853][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/UVSQQJIWMF5VVUUZDIOYZ09BEEC61040AECB7D03619E99E170477C.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/QS/UVSQQJIWMF5VVUUZDIOYZ0.uasset'
+[2022.05.17-19.15.22:863][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/6/K7/VUHPJVUZO2DVXH4Q7BBKA2
+[2022.05.17-19.15.22:863][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/VUHPJVUZO2DVXH4Q7BBKA2699E2A0E4D7E5ECE6567C9AEB2EF76DF.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/6/K7/VUHPJVUZO2DVXH4Q7BBKA2.uasset'
+[2022.05.17-19.15.22:873][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/5/BA/WSTUZFAIO3BUE12MI8O679
+[2022.05.17-19.15.22:873][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/WSTUZFAIO3BUE12MI8O679F91EFDFA4914120ED5C8EA80A647908D.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/5/BA/WSTUZFAIO3BUE12MI8O679.uasset'
+[2022.05.17-19.15.22:882][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/15/HYLV5K2MOYOF5GA231SW6B
+[2022.05.17-19.15.22:882][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/HYLV5K2MOYOF5GA231SW6B2A4E221C49AD155A4020E5BCEF27FEAD.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/15/HYLV5K2MOYOF5GA231SW6B.uasset'
+[2022.05.17-19.15.22:891][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/3C/4V4ZSOUWLHB2E1U05OOS7P
+[2022.05.17-19.15.22:892][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/4V4ZSOUWLHB2E1U05OOS7P21B8815A446E5240EE58AD847B1AC8A5.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/3C/4V4ZSOUWLHB2E1U05OOS7P.uasset'
+[2022.05.17-19.15.22:902][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/K6/F4R7D5RHZCT9NNMUFZZBI4
+[2022.05.17-19.15.22:902][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/F4R7D5RHZCT9NNMUFZZBI4594313944793CE2FED1957AF395A13B6.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/K6/F4R7D5RHZCT9NNMUFZZBI4.uasset'
+[2022.05.17-19.15.22:911][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/3/3G/ZWVNZ2LC274VXFY16GGOWH
+[2022.05.17-19.15.22:911][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/ZWVNZ2LC274VXFY16GGOWHF6D44E914E966D37BA1BFB8037F3DC68.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/3/3G/ZWVNZ2LC274VXFY16GGOWH.uasset'
+[2022.05.17-19.15.22:921][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/5I/L7NG4RW6KUCNMX0RM1RGQ3
+[2022.05.17-19.15.22:921][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/L7NG4RW6KUCNMX0RM1RGQ34D6AFEA94C1D809DDEC852BB2F922AC0.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/5I/L7NG4RW6KUCNMX0RM1RGQ3.uasset'
+[2022.05.17-19.15.22:930][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/RM/LIOXSWIV17D4HWTNAJG30I
+[2022.05.17-19.15.22:930][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/LIOXSWIV17D4HWTNAJG30I6CD8B4FB44CF4A364A3D3195B2419DFD.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/RM/LIOXSWIV17D4HWTNAJG30I.uasset'
+[2022.05.17-19.15.22:939][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/D/A1/MHKHXJYLX2IX2JWVG0EYXC
+[2022.05.17-19.15.22:939][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/MHKHXJYLX2IX2JWVG0EYXC13893C79470143979F3AB6BD9BCA117E.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/D/A1/MHKHXJYLX2IX2JWVG0EYXC.uasset'
+[2022.05.17-19.15.22:948][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/8V/FNMMTUQ5E85XDVYTQDU0QU
+[2022.05.17-19.15.22:948][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/FNMMTUQ5E85XDVYTQDU0QUA4BCEE7748DC42C78BBC4B94F39496FD.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/8V/FNMMTUQ5E85XDVYTQDU0QU.uasset'
+[2022.05.17-19.15.22:960][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/5/03/L1UO9EBK2HDZXA8Y3OJT81
+[2022.05.17-19.15.22:960][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/L1UO9EBK2HDZXA8Y3OJT81BFE749DA4F27EF13D2043EABBAAF494B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/5/03/L1UO9EBK2HDZXA8Y3OJT81.uasset'
+[2022.05.17-19.15.22:971][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/5/EE/H7EPFV0NMDW9RGEF9BT70K
+[2022.05.17-19.15.22:972][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/H7EPFV0NMDW9RGEF9BT70KDEB9AEDD49BA15520525DBB280D635B5.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/5/EE/H7EPFV0NMDW9RGEF9BT70K.uasset'
+[2022.05.17-19.15.22:982][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/A/4M/386ORROQ3MX6SVGWBVN7Q4
+[2022.05.17-19.15.22:982][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/386ORROQ3MX6SVGWBVN7Q43921B0BA4B781D860DC784853875BE53.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/A/4M/386ORROQ3MX6SVGWBVN7Q4.uasset'
+[2022.05.17-19.15.22:991][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/H3/4LELKV2DP43QROKC2OXQGB
+[2022.05.17-19.15.22:991][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/4LELKV2DP43QROKC2OXQGBE9D464C542FC4AB19FD5D0BED05CFEBA.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/H3/4LELKV2DP43QROKC2OXQGB.uasset'
+[2022.05.17-19.15.23:001][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/LK/KIM67J6DEJSS7N6NDNSHPI
+[2022.05.17-19.15.23:001][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/KIM67J6DEJSS7N6NDNSHPI32154C214E9DDBC8E5B0A3826D72A301.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/LK/KIM67J6DEJSS7N6NDNSHPI.uasset'
+[2022.05.17-19.15.23:011][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/F5/IB0MZG9MYGSITTXA147E4V
+[2022.05.17-19.15.23:012][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/IB0MZG9MYGSITTXA147E4V020C07C24A24B63AB1F26AA2250BAF68.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/F5/IB0MZG9MYGSITTXA147E4V.uasset'
+[2022.05.17-19.15.23:021][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/ZK/WUK6OKR8C9BRCZ0K9P73EH
+[2022.05.17-19.15.23:021][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/WUK6OKR8C9BRCZ0K9P73EH6C83C0434CDE6AD1D685B2A911F51A8D.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/ZK/WUK6OKR8C9BRCZ0K9P73EH.uasset'
+[2022.05.17-19.15.23:031][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/NY/NIIATKKPYIUPZZ72310PKY
+[2022.05.17-19.15.23:031][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/NIIATKKPYIUPZZ72310PKY473642614C21987E3E904095400EEE53.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/NY/NIIATKKPYIUPZZ72310PKY.uasset'
+[2022.05.17-19.15.23:041][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/4/VC/PUCCV8LLDP8KY1P0RX0DVF
+[2022.05.17-19.15.23:041][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/PUCCV8LLDP8KY1P0RX0DVFB1395978494AFBC26B830C8688B37167.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/4/VC/PUCCV8LLDP8KY1P0RX0DVF.uasset'
+[2022.05.17-19.15.23:050][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/5/2B/5WUCATHK4JTV7PWRH5SZFK
+[2022.05.17-19.15.23:050][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/5WUCATHK4JTV7PWRH5SZFK4ACDC5074A1B7DDAB869FBBDB42C068A.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/5/2B/5WUCATHK4JTV7PWRH5SZFK.uasset'
+[2022.05.17-19.15.23:061][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/4/N6/H31TSPW6GZBT2TN47GBWRX
+[2022.05.17-19.15.23:061][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/H31TSPW6GZBT2TN47GBWRX668661D54DBA0094D76D1C80DDC81FE4.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/4/N6/H31TSPW6GZBT2TN47GBWRX.uasset'
+[2022.05.17-19.15.23:071][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/AG/G5MZ111R3Z1QXYAV2NMVDI
+[2022.05.17-19.15.23:071][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/G5MZ111R3Z1QXYAV2NMVDI7F2106534D044E65D251C8B78683AA50.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/AG/G5MZ111R3Z1QXYAV2NMVDI.uasset'
+[2022.05.17-19.15.23:081][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/A/XF/PY6B63QA5DJ8WUM2YVINNF
+[2022.05.17-19.15.23:081][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/PY6B63QA5DJ8WUM2YVINNF4B7B22994CBBC73D0B0AF68AF679D6B1.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/A/XF/PY6B63QA5DJ8WUM2YVINNF.uasset'
+[2022.05.17-19.15.23:090][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/EQ/8QZOMS0AB5HVAG0GLQXT18
+[2022.05.17-19.15.23:090][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/8QZOMS0AB5HVAG0GLQXT18125BFC4343A5269C583E8AB484829945.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/EQ/8QZOMS0AB5HVAG0GLQXT18.uasset'
+[2022.05.17-19.15.23:099][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/GO/6LHWASSVZDC5S6CS382OSF
+[2022.05.17-19.15.23:099][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/6LHWASSVZDC5S6CS382OSF4932795D490FDEC5065B9CB40B58EEEE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/GO/6LHWASSVZDC5S6CS382OSF.uasset'
+[2022.05.17-19.15.23:108][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/75/P1SEJ57H8BX75RRI87QAIW
+[2022.05.17-19.15.23:108][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/P1SEJ57H8BX75RRI87QAIW6674A5EC4BA20B474D54EBB0EAB74D52.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/75/P1SEJ57H8BX75RRI87QAIW.uasset'
+[2022.05.17-19.15.23:118][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/JN/NQYWTLVHN4HA1TEVCXCQTL
+[2022.05.17-19.15.23:119][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/NQYWTLVHN4HA1TEVCXCQTL7647074642EF2C24C0C31686BF1C67CC.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/JN/NQYWTLVHN4HA1TEVCXCQTL.uasset'
+[2022.05.17-19.15.23:129][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/G3/XHQRRG8R4Z0R9W55T55DGF
+[2022.05.17-19.15.23:129][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/XHQRRG8R4Z0R9W55T55DGFFAE05FB04F1CBB4D56C561980A2F24EE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/G3/XHQRRG8R4Z0R9W55T55DGF.uasset'
+[2022.05.17-19.15.23:138][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/E3/7IDXJJZ6026N7W7740Q42J
+[2022.05.17-19.15.23:138][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/7IDXJJZ6026N7W7740Q42JD38928C042E09EFE43A31CB7C0D5061B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/E3/7IDXJJZ6026N7W7740Q42J.uasset'
+[2022.05.17-19.15.23:148][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/D1/HKHQ7YKPFCV585EE9GQKSL
+[2022.05.17-19.15.23:148][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/HKHQ7YKPFCV585EE9GQKSLFC8E542542A108CAB65F43A6C57BF3DF.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/D1/HKHQ7YKPFCV585EE9GQKSL.uasset'
+[2022.05.17-19.15.23:157][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/0V/6N399WYGNYOORG1V6MUV8T
+[2022.05.17-19.15.23:157][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/6N399WYGNYOORG1V6MUV8T9B307DD04E409B01816FD9BE4CBBDFAD.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/0V/6N399WYGNYOORG1V6MUV8T.uasset'
+[2022.05.17-19.15.23:167][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/5/PR/IM7RN9TMXFGQWA1BG1HBHS
+[2022.05.17-19.15.23:167][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/IM7RN9TMXFGQWA1BG1HBHS15ECE4234F79A2C722AF1487082A580B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/5/PR/IM7RN9TMXFGQWA1BG1HBHS.uasset'
+[2022.05.17-19.15.23:177][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/1S/K8WOZL8QQWR2957YLXVIEC
+[2022.05.17-19.15.23:177][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/K8WOZL8QQWR2957YLXVIECA296C8B5409A8FBDBCDAE5BCDAAAEECC.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/1S/K8WOZL8QQWR2957YLXVIEC.uasset'
+[2022.05.17-19.15.23:186][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/3E/6EPM03FDX4MYYRBV6PTXHK
+[2022.05.17-19.15.23:186][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/6EPM03FDX4MYYRBV6PTXHKF3E2AE6A4BC4A0FA8C621EA4E55159E2.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/3E/6EPM03FDX4MYYRBV6PTXHK.uasset'
+[2022.05.17-19.15.23:196][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/ER/14PHP61SBWM1GBQXUJZ03G
+[2022.05.17-19.15.23:196][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/14PHP61SBWM1GBQXUJZ03GE10179614E0BC381B75A899994CBB44C.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/ER/14PHP61SBWM1GBQXUJZ03G.uasset'
+[2022.05.17-19.15.23:207][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/9O/JTSEUJ1AZ2TNU3QYC8BVLS
+[2022.05.17-19.15.23:207][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/JTSEUJ1AZ2TNU3QYC8BVLS2B69E6824E1A64F249F7838E51B3172A.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/9O/JTSEUJ1AZ2TNU3QYC8BVLS.uasset'
+[2022.05.17-19.15.23:216][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/A/U3/9A4G7OODBZFT3LQH3XV2EZ
+[2022.05.17-19.15.23:216][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/9A4G7OODBZFT3LQH3XV2EZ62013AEE447310112A66D39BCCD3481B.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/A/U3/9A4G7OODBZFT3LQH3XV2EZ.uasset'
+[2022.05.17-19.15.23:225][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/TA/21SFL0VRQ7D8MX3M51YZTN
+[2022.05.17-19.15.23:225][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/21SFL0VRQ7D8MX3M51YZTNC893CB0A4A539065F350DEB2C687F909.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/TA/21SFL0VRQ7D8MX3M51YZTN.uasset'
+[2022.05.17-19.15.23:236][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/F/1Q/KX0JT1WP2QV7QJLLVFS72Q
+[2022.05.17-19.15.23:236][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/KX0JT1WP2QV7QJLLVFS72QE011C83F47728758D13BC6915534EA77.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/F/1Q/KX0JT1WP2QV7QJLLVFS72Q.uasset'
+[2022.05.17-19.15.23:245][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/LO/JPJTPBIR3YHLYUTT2BSONP
+[2022.05.17-19.15.23:245][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/JPJTPBIR3YHLYUTT2BSONP5190F42241778B51F633FD8DA76EAB19.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/LO/JPJTPBIR3YHLYUTT2BSONP.uasset'
+[2022.05.17-19.15.23:255][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/3/S4/NQEUH028TX8CZWLECFUOBM
+[2022.05.17-19.15.23:255][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/NQEUH028TX8CZWLECFUOBM691573CD42F88A35A797F994F6DDEC9F.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/3/S4/NQEUH028TX8CZWLECFUOBM.uasset'
+[2022.05.17-19.15.23:264][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/05/W70HFNB2UDIOJ030OBXK88
+[2022.05.17-19.15.23:264][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/W70HFNB2UDIOJ030OBXK887B30808B4D94583315F218849F74D855.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/05/W70HFNB2UDIOJ030OBXK88.uasset'
+[2022.05.17-19.15.23:274][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/6/OS/YNYNVUFLIOBX8NQJ2A6NPE
+[2022.05.17-19.15.23:274][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/YNYNVUFLIOBX8NQJ2A6NPE50305C7B4916AE00D1EA16B1868F0B9D.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/6/OS/YNYNVUFLIOBX8NQJ2A6NPE.uasset'
+[2022.05.17-19.15.23:284][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/3/EH/AYA0LWQ0YEB11SJUJG2QMQ
+[2022.05.17-19.15.23:284][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/AYA0LWQ0YEB11SJUJG2QMQE3E7972D4B4E5FE1AAB2C4BF6A969F35.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/3/EH/AYA0LWQ0YEB11SJUJG2QMQ.uasset'
+[2022.05.17-19.15.23:294][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/DZ/1169LL9CSRHPRG2UVXOFDW
+[2022.05.17-19.15.23:294][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/1169LL9CSRHPRG2UVXOFDW5A4A781847CF41351E4346BF1B18F021.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/DZ/1169LL9CSRHPRG2UVXOFDW.uasset'
+[2022.05.17-19.15.23:303][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/D3/M25LKTHBKUTGPPOTWSL0TO
+[2022.05.17-19.15.23:303][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/M25LKTHBKUTGPPOTWSL0TO21EE59C845E8FA5906F43E863A5ABD64.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/D3/M25LKTHBKUTGPPOTWSL0TO.uasset'
+[2022.05.17-19.15.23:312][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/4T/QMI2QH9O8H26G9HEQ37BVM
+[2022.05.17-19.15.23:312][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/QMI2QH9O8H26G9HEQ37BVM188F79BD4E7DDA7FC669D4AA53E5E257.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/4T/QMI2QH9O8H26G9HEQ37BVM.uasset'
+[2022.05.17-19.15.23:321][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/CX/XDPPSQ4IZVFD401CTI8DOK
+[2022.05.17-19.15.23:321][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/XDPPSQ4IZVFD401CTI8DOKE40DEB7A4D374A31A1DBDD8A392D951A.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/CX/XDPPSQ4IZVFD401CTI8DOK.uasset'
+[2022.05.17-19.15.23:331][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/RP/CL95DON3H9EP6KBMSCFL4D
+[2022.05.17-19.15.23:331][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/CL95DON3H9EP6KBMSCFL4DF6ED84EB4699AD122BF1D7975E7967A2.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/RP/CL95DON3H9EP6KBMSCFL4D.uasset'
+[2022.05.17-19.15.23:340][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/CH/WIX2VIB4X285WP0BKI629S
+[2022.05.17-19.15.23:340][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/WIX2VIB4X285WP0BKI629S858CBA004F2AFB2FE33251B7CE2A4FB6.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/CH/WIX2VIB4X285WP0BKI629S.uasset'
+[2022.05.17-19.15.23:351][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/D/RD/ZAF0U7UQQU794PDZ3BD3EI
+[2022.05.17-19.15.23:351][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/ZAF0U7UQQU794PDZ3BD3EI0EAA082A448DC57E8BF646B7D77E3D27.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/D/RD/ZAF0U7UQQU794PDZ3BD3EI.uasset'
+[2022.05.17-19.15.23:361][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/IG/3WQS36JO5R96OIF5B1ZKAS
+[2022.05.17-19.15.23:361][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/3WQS36JO5R96OIF5B1ZKAS5831C8A749692BDFEFFF9493B1D23D0A.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/IG/3WQS36JO5R96OIF5B1ZKAS.uasset'
+[2022.05.17-19.15.23:370][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/BK/ODLDQPUG2IBMPVX69CAJJB
+[2022.05.17-19.15.23:370][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/ODLDQPUG2IBMPVX69CAJJB4531659E4AB94FFAC70C5092450365DE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/BK/ODLDQPUG2IBMPVX69CAJJB.uasset'
+[2022.05.17-19.15.23:381][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/36/SO3PPGM84TCW0773XTUV8R
+[2022.05.17-19.15.23:381][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/SO3PPGM84TCW0773XTUV8RAFF1AACD4AD415E1676333B4004CCB6C.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/36/SO3PPGM84TCW0773XTUV8R.uasset'
+[2022.05.17-19.15.23:392][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/RH/WFIYKSMTCJI8CU18MX5IRJ
+[2022.05.17-19.15.23:392][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/WFIYKSMTCJI8CU18MX5IRJ05604CB140F922E44A11E985299AF179.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/RH/WFIYKSMTCJI8CU18MX5IRJ.uasset'
+[2022.05.17-19.15.23:401][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/1/YV/H9F204ZYJ494TISOLK563R
+[2022.05.17-19.15.23:401][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/H9F204ZYJ494TISOLK563RA8C808F54BA2956C5F572CA6013D7638.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/1/YV/H9F204ZYJ494TISOLK563R.uasset'
+[2022.05.17-19.15.23:411][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/ZT/4GZX04COJ525AB4L9IUCSR
+[2022.05.17-19.15.23:411][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/4GZX04COJ525AB4L9IUCSR2AD2438A4E305F527A042AA847DC57BF.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/ZT/4GZX04COJ525AB4L9IUCSR.uasset'
+[2022.05.17-19.15.23:422][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/Y4/LH85UYNEASX1O82UZS5AID
+[2022.05.17-19.15.23:422][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/LH85UYNEASX1O82UZS5AIDEFC051954BCDE3BE60B447AD56CBB76C.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/Y4/LH85UYNEASX1O82UZS5AID.uasset'
+[2022.05.17-19.15.23:425][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/0K/E4WL9O6LQQY8XV2X9VRZVB
+[2022.05.17-19.15.23:425][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/E4WL9O6LQQY8XV2X9VRZVB5F8B94834F33DD477781118187818427.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/0K/E4WL9O6LQQY8XV2X9VRZVB.uasset'
+[2022.05.17-19.15.23:427][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/UF/A3AHMDWIKG348YP8ZMNS4Z
+[2022.05.17-19.15.23:427][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/A3AHMDWIKG348YP8ZMNS4Z7CFFC41C4BC5A18E8A1394AF207AD589.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/UF/A3AHMDWIKG348YP8ZMNS4Z.uasset'
+[2022.05.17-19.15.23:643][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/F/13/W6ONMINVDRXCZ7QESSMHP7
+[2022.05.17-19.15.23:643][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/W6ONMINVDRXCZ7QESSMHP7860C3FDE48A5ACA8A1C2B59B1C8DE82E.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/F/13/W6ONMINVDRXCZ7QESSMHP7.uasset'
+[2022.05.17-19.15.24:056][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/6/OB/ZKMKOC1EBJ3ZTTBR7KRZ1C
+[2022.05.17-19.15.24:056][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/ZKMKOC1EBJ3ZTTBR7KRZ1CE339A36A43BBB5BFBB06C8870CE4E1E1.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/6/OB/ZKMKOC1EBJ3ZTTBR7KRZ1C.uasset'
+[2022.05.17-19.15.25:330][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/A/0M/LJ2ALOTLMD0P8QY98E2R0H
+[2022.05.17-19.15.25:330][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/LJ2ALOTLMD0P8QY98E2R0H7A997F11410FAAF5E85346A6ADCFA272.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/A/0M/LJ2ALOTLMD0P8QY98E2R0H.uasset'
+[2022.05.17-19.15.25:567][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/L7/10D03PQE6O4ZN4IW4EJS9A
+[2022.05.17-19.15.25:567][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/10D03PQE6O4ZN4IW4EJS9ADE0F792D41F582550BB96391DABE8F44.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/L7/10D03PQE6O4ZN4IW4EJS9A.uasset'
+[2022.05.17-19.15.25:782][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/8/A2/N4WA3A7FGVYMENX0IHL9AD
+[2022.05.17-19.15.25:782][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/N4WA3A7FGVYMENX0IHL9AD78ACBDA54A85DA55D4A51785B3022D53.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/8/A2/N4WA3A7FGVYMENX0IHL9AD.uasset'
+[2022.05.17-19.15.26:012][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/11/1CULK513VZNVREDGE8NR3F
+[2022.05.17-19.15.26:012][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/1CULK513VZNVREDGE8NR3F630A98614D18A56A767C22A7D2106C6D.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/11/1CULK513VZNVREDGE8NR3F.uasset'
+[2022.05.17-19.15.26:994][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/4/9P/YGXZKYQWHDTA7ZZV8RV63E
+[2022.05.17-19.15.26:994][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/YGXZKYQWHDTA7ZZV8RV63E536B76314C33BC33DC6DF5BF8EF35D86.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/4/9P/YGXZKYQWHDTA7ZZV8RV63E.uasset'
+[2022.05.17-19.15.27:429][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/SA/FDMH4FMH3TZMBP6W685JJU
+[2022.05.17-19.15.27:429][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/FDMH4FMH3TZMBP6W685JJU7F2351EA42E37061A52D4EA7101FF2CE.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/SA/FDMH4FMH3TZMBP6W685JJU.uasset'
+[2022.05.17-19.15.27:650][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/6/Y2/1DNZY66HDSU67MSDPAKLKQ
+[2022.05.17-19.15.27:650][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/1DNZY66HDSU67MSDPAKLKQAEB5162243C8E55ABD48048303E42745.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/6/Y2/1DNZY66HDSU67MSDPAKLKQ.uasset'
+[2022.05.17-19.15.28:247][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/2/BD/R0QVFMT67UX6A1HD2VLLIH
+[2022.05.17-19.15.28:248][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/R0QVFMT67UX6A1HD2VLLIH3AC2E97748A836C51E69B3BAD0C8BE64.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/2/BD/R0QVFMT67UX6A1HD2VLLIH.uasset'
+[2022.05.17-19.15.28:454][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/9/SI/D0UE8P981PFUISHDF0Y5XA
+[2022.05.17-19.15.28:454][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/D0UE8P981PFUISHDF0Y5XAB9C039B147359CB7604B199D38F385F3.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/9/SI/D0UE8P981PFUISHDF0Y5XA.uasset'
+[2022.05.17-19.15.28:856][318]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.05.17-19.15.28:856][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/K6/CHQV9N764NN0NCFCLH4X4P
+[2022.05.17-19.15.28:856][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/CHQV9N764NN0NCFCLH4X4P8ACD260E4C9AB2ED186644AEBC14F634.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/K6/CHQV9N764NN0NCFCLH4X4P.uasset'
+[2022.05.17-19.15.30:107][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/XX/JWWTQYL081E9EEIYJ1AF1V
+[2022.05.17-19.15.30:107][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/JWWTQYL081E9EEIYJ1AF1V462CFC8C4E284627B09432A66CAFAB4E.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/XX/JWWTQYL081E9EEIYJ1AF1V.uasset'
+[2022.05.17-19.15.30:327][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/D/D7/IIB9YURVIQUOR0CZQ19MQF
+[2022.05.17-19.15.30:327][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/IIB9YURVIQUOR0CZQ19MQF577C0D9C4AA252DEBA64A0B2A9C2AD9E.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/D/D7/IIB9YURVIQUOR0CZQ19MQF.uasset'
+[2022.05.17-19.15.30:733][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/E/0N/LQE13E5TMU17C5F8UKF0S0
+[2022.05.17-19.15.30:733][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/LQE13E5TMU17C5F8UKF0S0B51BF50D4DBE720B40D8CFB33EE09165.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/E/0N/LQE13E5TMU17C5F8UKF0S0.uasset'
+[2022.05.17-19.15.30:935][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/72/I4R5K5OJLWIVCC7A44MDCA
+[2022.05.17-19.15.30:935][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/I4R5K5OJLWIVCC7A44MDCA7166D7FD4116705DAE61E5927ADC6300.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/72/I4R5K5OJLWIVCC7A44MDCA.uasset'
+[2022.05.17-19.15.31:372][318]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_3
+[2022.05.17-19.15.31:376][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/B/1Y/4T0PE0K4RN45U7TWJQFNPN
+[2022.05.17-19.15.31:376][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/4T0PE0K4RN45U7TWJQFNPNF29D778040FFDA3FA08B4397A6249178.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/B/1Y/4T0PE0K4RN45U7TWJQFNPN.uasset'
+[2022.05.17-19.15.31:585][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/C/TH/Y7HVS22O8D9OF43OY9ZFSN
+[2022.05.17-19.15.31:585][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Y7HVS22O8D9OF43OY9ZFSN0478C627438377D1BEDF8E89658B3FA0.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/C/TH/Y7HVS22O8D9OF43OY9ZFSN.uasset'
+[2022.05.17-19.15.31:980][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/CA/CUIALFIHZ7XK063GN5KRMO
+[2022.05.17-19.15.31:980][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/CUIALFIHZ7XK063GN5KRMO35B8DD0E490DDFD4F986F5BF4340E6DF.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/CA/CUIALFIHZ7XK063GN5KRMO.uasset'
+[2022.05.17-19.15.32:193][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/7/IG/WTSYUYXBUXYGLY3C05G0QG
+[2022.05.17-19.15.32:193][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/WTSYUYXBUXYGLY3C05G0QG63B9FB06441D8DC6206DA4A56BB079E9.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/7/IG/WTSYUYXBUXYGLY3C05G0QG.uasset'
+[2022.05.17-19.15.33:581][318]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map1/0/FK/YCBOH9K85LJIJYHCF07MHX
+[2022.05.17-19.15.33:581][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/YCBOH9K85LJIJYHCF07MHX918F5D0545B3AD544C72A099B51BC824.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/__ExternalActors__/Maps/Map1/0/FK/YCBOH9K85LJIJYHCF07MHX.uasset'
+[2022.05.17-19.15.33:592][318]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Map1_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Map1/8/BT/RV8BBP9ZKTLQQT2WABYZTS
+/Game/__ExternalObjects__/Maps/Map1/C/8H/D5VX1F7LPNXAD7262RWH2E
+/Game/__ExternalObjects__/Maps/Map1/9/VS/J4YPZMWYPT5KF6SCYTEFE9
+/Game/__ExternalObjects__/Maps/Map1/C/AC/VYHO2VFEC3OZG6NS6N6MXZ
+/Game/__ExternalObjects__/Maps/Map1/3/DB/XKFBYR8BPD6DV2YSZIY48Q
+/Game/__ExternalObjects__/Maps/Map1/5/SR/MMMWDO51BY0KS68OIEHPSX
+/Game/__ExternalActors__/Maps/Map1/E/RZ/8ZH9VUFZHLPZ1SW3QJ4EXC
+/Game/__ExternalActors__/Maps/Map1/9/F0/SM43OE0Z3PEBPG1BJAZXZZ
+/Game/__ExternalActors__/Maps/Map1/9/HI/ELZW0VO6LP52P2QWYCOJ5J
+/Game/__ExternalActors__/Maps/Map1/0/TP/0FE9GYX89KTV6O73MILJOK
+/Game/__ExternalActors__/Maps/Map1/E/8F/DLX7OJJIP32JX2UQDURQGE
+/Game/__ExternalActors__/Maps/Map1/4/P4/7P2P2280HAWIOHZWNEYBU3
+/Game/__ExternalActors__/Maps/Map1/C/0Z/K7A1HF1KK4D5K134XVHCGO
+/Game/__ExternalActors__/Maps/Map1/A/48/90DY3NL59XKEMBJ5R7060U
+/Game/__ExternalActors__/Maps/Map1/7/83/G5AZ8ZZ6HYPD4SN3JLT9H8
+/Game/__ExternalActors__/Maps/Map1/7/HA/1QGTDVS5PESBHGTM6QZRWA
+/Game/__ExternalActors__/Maps/Map1/9/4H/6RG94WS3ZX0NQ5O7NX6G2W
+/Game/__ExternalActors__/Maps/Map1/C/K3/QDCPARA6IK9S1TMOJCR5MZ
+/Game/__ExternalActors__/Maps/Map1/1/JV/CIQEY29YA6YOKTJ69YBWUO
+/Game/__ExternalActors__/Maps/Map1/2/QS/UVSQQJIWMF5VVUUZDIOYZ0
+/Game/__ExternalActors__/Maps/Map1/6/K7/VUHPJVUZO2DVXH4Q7BBKA2
+/Game/__ExternalActors__/Maps/Map1/5/BA/WSTUZFAIO3BUE12MI8O679
+/Game/__ExternalActors__/Maps/Map1/1/15/HYLV5K2MOYOF5GA231SW6B
+/Game/__ExternalActors__/Maps/Map1/7/3C/4V4ZSOUWLHB2E1U05OOS7P
+/Game/__ExternalActors__/Maps/Map1/1/K6/F4R7D5RHZCT9NNMUFZZBI4
+/Game/__ExternalActors__/Maps/Map1/3/3G/ZWVNZ2LC274VXFY16GGOWH
+/Game/__ExternalActors__/Maps/Map1/C/5I/L7NG4RW6KUCNMX0RM1RGQ3
+/Game/__ExternalActors__/Maps/Map1/9/RM/LIOXSWIV17D4HWTNAJG30I
+/Game/__ExternalActors__/Maps/Map1/D/A1/MHKHXJYLX2IX2JWVG0EYXC
+/Game/__ExternalActors__/Maps/Map1/E/8V/FNMMTUQ5E85XDVYTQDU0QU
+/Game/__ExternalActors__/Maps/Map1/5/03/L1UO9EBK2HDZXA8Y3OJT81
+/Game/__ExternalActors__/Maps/Map1/5/EE/H7EPFV0NMDW9RGEF9BT70K
+/Game/__ExternalActors__/Maps/Map1/A/4M/386ORROQ3MX6SVGWBVN7Q4
+/Game/__ExternalActors__/Maps/Map1/E/H3/4LELKV2DP43QROKC2OXQGB
+/Game/__ExternalActors__/Maps/Map1/B/LK/KIM67J6DEJSS7N6NDNSHPI
+/Game/__ExternalActors__/Maps/Map1/8/F5/IB0MZG9MYGSITTXA147E4V
+/Game/__ExternalActors__/Maps/Map1/9/ZK/WUK6OKR8C9BRCZ0K9P73EH
+/Game/__ExternalActors__/Maps/Map1/7/NY/NIIATKKPYIUPZZ72310PKY
+/Game/__ExternalActors__/Maps/Map1/4/VC/PUCCV8LLDP8KY1P0RX0DVF
+/Game/__ExternalActors__/Maps/Map1/5/2B/5WUCATHK4JTV7PWRH5SZFK
+/Game/__ExternalActors__/Maps/Map1/4/N6/H31TSPW6GZBT2TN47GBWRX
+/Game/__ExternalActors__/Maps/Map1/C/AG/G5MZ111R3Z1QXYAV2NMVDI
+/Game/__ExternalActors__/Maps/Map1/A/XF/PY6B63QA5DJ8WUM2YVINNF
+/Game/__ExternalActors__/Maps/Map1/9/EQ/8QZOMS0AB5HVAG0GLQXT18
+/Game/__ExternalActors__/Maps/Map1/2/GO/6LHWASSVZDC5S6CS382OSF
+/Game/__ExternalActors__/Maps/Map1/8/75/P1SEJ57H8BX75RRI87QAIW
+/Game/__ExternalActors__/Maps/Map1/2/JN/NQYWTLVHN4HA1TEVCXCQTL
+/Game/__ExternalActors__/Maps/Map1/8/G3/XHQRRG8R4Z0R9W55T55DGF
+/Game/__ExternalActors__/Maps/Map1/7/E3/7IDXJJZ6026N7W7740Q42J
+/Game/__ExternalActors__/Maps/Map1/8/D1/HKHQ7YKPFCV585EE9GQKSL
+/Game/__ExternalActors__/Maps/Map1/9/0V/6N399WYGNYOORG1V6MUV8T
+/Game/__ExternalActors__/Maps/Map1/5/PR/IM7RN9TMXFGQWA1BG1HBHS
+/Game/__ExternalActors__/Maps/Map1/0/1S/K8WOZL8QQWR2957YLXVIEC
+/Game/__ExternalActors__/Maps/Map1/8/3E/6EPM03FDX4MYYRBV6PTXHK
+/Game/__ExternalActors__/Maps/Map1/C/ER/14PHP61SBWM1GBQXUJZ03G
+/Game/__ExternalActors__/Maps/Map1/1/9O/JTSEUJ1AZ2TNU3QYC8BVLS
+/Game/__ExternalActors__/Maps/Map1/A/U3/9A4G7OODBZFT3LQH3XV2EZ
+/Game/__ExternalActors__/Maps/Map1/2/TA/21SFL0VRQ7D8MX3M51YZTN
+/Game/__ExternalActors__/Maps/Map1/F/1Q/KX0JT1WP2QV7QJLLVFS72Q
+/Game/__ExternalActors__/Maps/Map1/1/LO/JPJTPBIR3YHLYUTT2BSONP
+/Game/__ExternalActors__/Maps/Map1/3/S4/NQEUH028TX8CZWLECFUOBM
+/Game/__ExternalActors__/Maps/Map1/1/05/W70HFNB2UDIOJ030OBXK88
+/Game/__ExternalActors__/Maps/Map1/6/OS/YNYNVUFLIOBX8NQJ2A6NPE
+/Game/__ExternalActors__/Maps/Map1/3/EH/AYA0LWQ0YEB11SJUJG2QMQ
+/Game/__ExternalActors__/Maps/Map1/C/DZ/1169LL9CSRHPRG2UVXOFDW
+/Game/__ExternalActors__/Maps/Map1/1/D3/M25LKTHBKUTGPPOTWSL0TO
+/Game/__ExternalActors__/Maps/Map1/B/4T/QMI2QH9O8H26G9HEQ37BVM
+/Game/__ExternalActors__/Maps/Map1/8/CX/XDPPSQ4IZVFD401CTI8DOK
+/Game/__ExternalActors__/Maps/Map1/8/RP/CL95DON3H9EP6KBMSCFL4D
+/Game/__ExternalActors__/Maps/Map1/B/CH/WIX2VIB4X285WP0BKI629S
+/Game/__ExternalActors__/Maps/Map1/D/RD/ZAF0U7UQQU794PDZ3BD3EI
+/Game/__ExternalActors__/Maps/Map1/E/IG/3WQS36JO5R96OIF5B1ZKAS
+/Game/__ExternalActors__/Maps/Map1/1/BK/ODLDQPUG2IBMPVX69CAJJB
+/Game/__ExternalActors__/Maps/Map1/7/36/SO3PPGM84TCW0773XTUV8R
+/Game/__ExternalActors__/Maps/Map1/9/RH/WFIYKSMTCJI8CU18MX5IRJ
+/Game/__ExternalActors__/Maps/Map1/1/YV/H9F204ZYJ494TISOLK563R
+/Game/__ExternalActors__/Maps/Map1/B/ZT/4GZX04COJ525AB4L9IUCSR
+/Game/__ExternalActors__/Maps/Map1/8/Y4/LH85UYNEASX1O82UZS5AID
+/Game/__ExternalActors__/Maps/Map1/0/0K/E4WL9O6LQQY8XV2X9VRZVB
+/Game/__ExternalActors__/Maps/Map1/2/UF/A3AHMDWIKG348YP8ZMNS4Z
+/Game/__ExternalActors__/Maps/Map1/F/13/W6ONMINVDRXCZ7QESSMHP7
+/Game/__ExternalActors__/Maps/Map1/6/OB/ZKMKOC1EBJ3ZTTBR7KRZ1C
+/Game/__ExternalActors__/Maps/Map1/A/0M/LJ2ALOTLMD0P8QY98E2R0H
+/Game/__ExternalActors__/Maps/Map1/0/L7/10D03PQE6O4ZN4IW4EJS9A
+/Game/__ExternalActors__/Maps/Map1/8/A2/N4WA3A7FGVYMENX0IHL9AD
+/Game/__ExternalActors__/Maps/Map1/9/11/1CULK513VZNVREDGE8NR3F
+/Game/__ExternalActors__/Maps/Map1/4/9P/YGXZKYQWHDTA7ZZV8RV63E
+/Game/__ExternalActors__/Maps/Map1/B/SA/FDMH4FMH3TZMBP6W685JJU
+/Game/__ExternalActors__/Maps/Map1/6/Y2/1DNZY66HDSU67MSDPAKLKQ
+/Game/__ExternalActors__/Maps/Map1/2/BD/R0QVFMT67UX6A1HD2VLLIH
+/Game/__ExternalActors__/Maps/Map1/9/SI/D0UE8P981PFUISHDF0Y5XA
+/Game/__ExternalActors__/Maps/Map1/0/K6/CHQV9N764NN0NCFCLH4X4P
+/Game/__ExternalActors__/Maps/Map1/B/XX/JWWTQYL081E9EEIYJ1AF1V
+/Game/__ExternalActors__/Maps/Map1/D/D7/IIB9YURVIQUOR0CZQ19MQF
+/Game/__ExternalActors__/Maps/Map1/E/0N/LQE13E5TMU17C5F8UKF0S0
+/Game/__ExternalActors__/Maps/Map1/C/72/I4R5K5OJLWIVCC7A44MDCA
+/Game/__ExternalActors__/Maps/Map1/B/1Y/4T0PE0K4RN45U7TWJQFNPN
+/Game/__ExternalActors__/Maps/Map1/C/TH/Y7HVS22O8D9OF43OY9ZFSN
+/Game/__ExternalActors__/Maps/Map1/7/CA/CUIALFIHZ7XK063GN5KRMO
+/Game/__ExternalActors__/Maps/Map1/7/IG/WTSYUYXBUXYGLY3C05G0QG
+/Game/__ExternalActors__/Maps/Map1/0/FK/YCBOH9K85LJIJYHCF07MHX
+[2022.05.17-19.15.33:593][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.17-19.15.33:605][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.17-19.15.33:609][318]LogSavePackage: Moving output files for package: /Game/Maps/Map1
+[2022.05.17-19.15.33:609][318]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Map1ECEF5FE04DEA673101470E9740ED53B3.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map1.umap'
+[2022.05.17-19.15.33:674][318]LogFileHelpers: Saving map 'Map1' took 11.137
+[2022.05.17-19.15.33:711][318]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Map1.Map1:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Map1.Map1:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Map1.Map1:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Map1.Map1:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Map1.Map1:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating WorldDataLayers /Game/Maps/Map1.Map1:PersistentLevel.WorldDataLayers
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating World /Game/Maps/Map1.Map1
+[2022.05.17-19.15.33:711][318]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Maps/Map1.Map1:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating DirectionalLight /Game/Maps/Map1.Map1:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Map1.Map1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating SkyAtmosphere /Game/Maps/Map1.Map1:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating SkyLight /Game/Maps/Map1.Map1:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Maps/Map1.Map1:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating VolumetricCloud /Game/Maps/Map1.Map1:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating Landscape /Game/Maps/Map1.Map1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2022.05.17-19.15.33:712][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2022.05.17-19.15.33:713][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2022.05.17-19.15.33:714][318]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Map1.Map1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Map1.Map1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AC1001_2075084327
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Map1.Map1:PersistentLevel.StaticMeshActor_UAID_1831BFE00F72AD1001_1086464504
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Map1.Map1:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2022.05.17-19.15.33:715][318]LogContentValidation: Display: Validating HLODLayer /Game/Maps/Map1_HLOD0_Instancing.Map1_HLOD0_Instancing
+[2022.05.17-19.15.34:566][357]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_6
+[2022.05.17-19.15.38:630][614]LogMeshUtilities: Finished distance field build in 5.7s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_7
+[2022.05.17-19.15.41:955][857]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_8
+[2022.05.17-19.15.44:282][ 68]LogMeshUtilities: Finished distance field build in 4.0s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_9
+[2022.05.17-19.15.46:129][231]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_10
+[2022.05.17-19.15.49:760][573]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_11
+[2022.05.17-19.15.54:394][986]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_1
+[2022.05.17-19.15.59:208][395]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_1
+[2022.05.17-19.16.01:621][594]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.05.17-19.16.04:863][801]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_5
+[2022.05.17-19.16.09:707][258]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_6
+[2022.05.17-19.16.13:851][603]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.17-19.16.15:283][719]LogMeshUtilities: Finished distance field build in 5.9s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_7
+[2022.05.17-19.16.18:282][944]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_8
+[2022.05.17-19.16.21:779][292]LogMeshUtilities: Finished distance field build in 3.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_9
+[2022.05.17-19.16.26:214][744]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 64% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.05.17-19.16.27:557][897]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.05.17-19.16.27:568][897]LogContentBrowser: Creating deferred item: NewWorld
+[2022.05.17-19.16.27:576][898]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.05.17-19.16.29:049][939]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_3
+[2022.05.17-19.16.30:260][972]LogContentBrowser: Attempting asset rename: NewWorld -> Map2
+[2022.05.17-19.16.30:261][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-19.16.30:332][972]LogContentBrowser: End creating deferred item NewWorld
+[2022.05.17-19.16.32:180][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.17-19.16.32:568][155]LogMeshUtilities: Finished distance field build in 3.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.05.17-19.16.33:891][155]LogSlate: Window 'Save Content' being destroyed
+[2022.05.17-19.16.33:953][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map2" FILE="../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.17-19.16.33:963][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.17-19.16.33:965][155]LogSavePackage: Moving output files for package: /Game/Maps/Map2
+[2022.05.17-19.16.33:965][155]LogSavePackage: Moving '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Saved/Map2ADA4587140FD5C280049038BEBC9D810.tmp' to '../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map2.umap'
+[2022.05.17-19.16.33:970][155]LogFileHelpers: Saving map 'Map2' took 0.017
+[2022.05.17-19.16.33:975][155]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map2.Map2
+[2022.05.17-19.16.33:975][155]Cmd: MAP LOAD FILE="../../../../../../Users/phill/OneDrive/Documents/Unreal Projects/RollBall/Content/Maps/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-19.16.33:975][155]LightingResults: New page: Lighting Build
+[2022.05.17-19.16.33:975][155]LoadErrors: New page: Loading map: Map2.umap
+[2022.05.17-19.16.34:009][155]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-19.16.34:009][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-19.16.34:013][155]MapCheck: New page: Map Check
+[2022.05.17-19.16.34:013][155]LightingResults: New page: Lighting Build
